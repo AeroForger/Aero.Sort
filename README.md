@@ -15,9 +15,10 @@ Aero.Sort is a library for sorting algorithms
 
 ## Installation
 
-`dotnet add package Aero.Sort --version 1.0.0`
- 
-[Nuget](https://www.nuget.org/packages/Aero.Sort/1.0.0) link
+### `dotnet add package Aero.Sort --version 1.0.0`
+
+> [!NOTE]
+> The [Nuget](https://www.nuget.org/packages/Aero.Sort/1.0.0) link
 
 ## Usage
 
