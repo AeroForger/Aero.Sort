@@ -31,7 +31,13 @@ array.Quick();
 
 ## Algorithms
 
-
+| Algorithm | Best | Average | Worst | Space | Stable |
+|---|---:|---:|---:|---:|:---:|
+| Bubble Sort | O(n) | O(n²) | O(n²) | O(1) | Yes |
+| Bogo Sort | O(n) | O(n × n!) | Unbounded | O(1) | No |
+| Insertion Sort | O(n) | O(n²) | O(n²) | O(1) | Yes |
+| Merge Sort | O(n log n) | O(n log n) | O(n log n) | O(n) | Yes |
+| Quick Sort | O(n log n) | O(n log n) | O(n²) | O(log n)* | No |
 
 ## Requirements
 
