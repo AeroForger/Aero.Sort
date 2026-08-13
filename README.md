@@ -28,6 +28,11 @@ using Aero.Sort;
 int[] array = { 5, 2, 8, 1, 3 };
 
 array.Quick();
+array.Bubble();
+array.Bogo();
+array.Insertion();
+array.MergeSort();
+array.Quick();
 ```
 
 ## Algorithms
