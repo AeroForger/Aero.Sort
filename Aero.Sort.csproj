@@ -16,7 +16,7 @@
     <Description>Simple and generic sorting algorithms for .NET.</Description>
 
     <PackageReadmeFile>README.md</PackageReadmeFile>
-    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
 
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
   </PropertyGroup>
